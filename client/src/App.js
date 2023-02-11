@@ -1,12 +1,7 @@
-// import React from 'react'
-import React from 'react'
-import Profile from './components/Profile'
-import './App.css'
-
-const App = () => {
+function App() {
   return (
-    <div>
-      <Profile />
+    <div className="App">
+      Anurag Mishra
     </div>
   )
 }
