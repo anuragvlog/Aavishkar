@@ -1,7 +1,14 @@
+import React from 'react'
+import './App.css'
+// import Register from './components/Register'
+// import Profile from './components/Profile'
+// import Login from './components/Login'
 function App() {
   return (
-    <div className="App">
-      Anurag Mishra
+    <div>
+      {/* <Profile /> */}
+      {/* <Login /> */}
+      {/* <Register />  */}
     </div>
   )
 }

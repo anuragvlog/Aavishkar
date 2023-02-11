@@ -1,6 +1,7 @@
 import user from '../img/user.png';
 import edit from '../img/edit.png';
 import logout from '../img/log-out.png';
+import './Dropdown.css'
 
 import React, {useState, useEffect, useRef} from 'react';
 
